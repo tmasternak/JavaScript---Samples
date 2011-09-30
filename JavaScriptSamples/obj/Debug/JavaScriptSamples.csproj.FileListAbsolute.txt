@@ -1,0 +1,5 @@
+D:\praca\KGD\JavaScriptSamples\JavaScriptSamples\bin\JavaScriptSamples.dll
+D:\praca\KGD\JavaScriptSamples\JavaScriptSamples\bin\JavaScriptSamples.pdb
+D:\praca\KGD\JavaScriptSamples\JavaScriptSamples\obj\Debug\ResolveAssemblyReference.cache
+D:\praca\KGD\JavaScriptSamples\JavaScriptSamples\obj\Debug\JavaScriptSamples.dll
+D:\praca\KGD\JavaScriptSamples\JavaScriptSamples\obj\Debug\JavaScriptSamples.pdb
